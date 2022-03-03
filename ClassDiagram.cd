@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Editor">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAAAAAAAIAgAAAAAAAAQAAAAAAAQAAAAAAAAQAA=</HashCode>
+      <FileName>Editor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_image">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory_image.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_text">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory_text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Image_editor">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAAAAAAAIAgAAAAAAAAQAAABAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Image_editor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text_editor">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgAAABAAAAIAgAAAAAAAAQAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Text_editor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
